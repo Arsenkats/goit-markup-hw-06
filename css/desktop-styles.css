@@ -219,7 +219,7 @@ header ul{
 }
 
 .advantages-items{
-    flex-basis: calc((100% - 3 * 24px) / 4)
+    flex-basis: calc((100% - 3 * 24px) / 4);
 
 }
 
@@ -498,8 +498,7 @@ header ul{
     background-color: #31d0aa;
 }
 
-.subscribe-block{
-    
+.subscribe-block{  
     margin-left: auto;
 }
 
